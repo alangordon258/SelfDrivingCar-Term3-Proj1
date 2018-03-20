@@ -4,7 +4,7 @@
 
 Overview
 ---
-This repository contains my submission for the Path Planning Project, which is part of the curriculum for term 3 of the Udacity Self-Driving Car Engineer Nanodegree Program. The goal of this project is to design a path planner that is able to create smooth, safe paths for the car to follow along a 3 lane highway with traffic. A successful path planner will be able to keep inside its lane, avoid hitting other cars, and pass slower moving traffic all by using localization, sensor fusion, and map data. The code for my model predictive controller can be found [here](./src). See the project rubric [here](https://review.udacity.com/#!/rubrics/1020/view). 
+This repository contains my submission for the Path Planning Project, which is part of the curriculum for term 3 of the Udacity Self-Driving Car Engineer Nanodegree Program. The goal of this project is to design a path planner that is able to create smooth, safe paths for the car to follow along a 3 lane highway with traffic. A successful path planner will be able to keep inside its lane, avoid hitting other cars, and pass slower moving traffic all by using localization, sensor fusion, and map data. The code for my path planner can be found [here](./src). See the project rubric [here](https://review.udacity.com/#!/rubrics/1020/view). 
 ![alt text](./PathPlannerScreenShot.png)
 
 [//]: # (Image References)
